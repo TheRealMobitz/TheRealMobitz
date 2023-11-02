@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m Mobeen a Computer Engineering student and an aspiring Game Developer
+- 👋 Hello there...
 
 <!---
 TheRealMobitz/TheRealMobitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
